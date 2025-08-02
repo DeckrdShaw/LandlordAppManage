@@ -1,6 +1,7 @@
 {
-  "appId": "com.yourname.landlordapp",
+  "appId": "com.digontobarua.landlordapp",
   "appName": "Landlord App",
   "webDir": ".",
   "bundledWebRuntime": false
 }
+
